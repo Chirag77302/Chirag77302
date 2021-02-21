@@ -11,7 +11,6 @@ I am a Tech and Coding enthusiast  currently pursuing my Btech with **Electrical
 - 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💬 Ask me about C++ , Javascript or any other latest tech .
 - 😄 Pronouns: He/His
--->
 
 
 <!--
