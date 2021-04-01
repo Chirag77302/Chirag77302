@@ -16,10 +16,9 @@ I am a Tech and Coding enthusiast  currently pursuing my Btech with **Electrical
 <!--
 **Chirag77302/Chirag77302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+- 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💻 I’m currently working with [ECELL NSUT](https://ecellnsut.com/)
 - 💡 I’m currently learning Advanced JS and React JS. 
-- 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💬 Ask me about C++ , Javascript or any other latest tech .
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
