@@ -5,10 +5,9 @@
 I am a Tech and Coding enthusiast  currently pursuing my Btech with **Electrical Engineering** as my majors from ***Netaji Subhas University Of Technology*** .  I have a pretty good understanding with data structures in C++.
  
 
-
+- 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💻 I’m currently working with [ECELL NSUT](https://ecellnsut.com/)
 - 💡 I’m currently learning Advanced JS and React JS. 
-- 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💬 Ask me about C++ , Javascript or any other latest tech .
 - 😄 Pronouns: He/His
 
