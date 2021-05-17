@@ -7,7 +7,7 @@ I am a Tech and Coding enthusiast  currently pursuing my Btech with **Electrical
 
 - 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💻 I’m currently working with [ECELL NSUT](https://ecellnsut.com/)
-- 💡 I’m currently learning Advanced concepts of JS and React JS. 
+- 💡 I’m currently learning Advanced concepts of JS  & React JS. 
 - 💬 Ask me about C++ , Javascript or any other latest tech .
 - 😄 Pronouns: He/His
 
