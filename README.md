@@ -6,8 +6,8 @@ I am a Tech and Coding enthusiast  currently pursuing my Btech with **Electrical
  
 
 - 🎓 Electrical Engg **Junior** At **NSUT**,Delhi. 
-- 💡  I’m currently learning React JS & Redux. 
-- 💬 Ask me about C++ , Javascript or any other latest tech .
+- 💡  I’m currently learning Spring Boot. 
+- 💬 Ask me about NodeJS , React JS or any other latest tech .
 - 😄 Pronouns: He/His
 
 ## Languages & Framweorks I Use 
