@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60" height="60"> ,
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60" height="60">
 
 ## My name is [Chirag Jindal](https://chiragj-portfolio.herokuapp.com/) & I am a Software Developer based in New Delhi , India .
 
