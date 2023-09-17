@@ -3,13 +3,14 @@
 ## My name is [Chirag Jindal](https://chiragj-portfolio.herokuapp.com/) & I am a Software Developer.
 
 I am a Tech and Coding enthusiast recently graduated with **Electrical Engineering** as my majors from ***NSUT, Delhi*** .
-I have a pretty good understanding with data structures in C++.
+Strong understanding with data structures & algorithms in C++.
  
 - 👨‍💻 Product Development at American Express.
 - 👨‍🏫 Student Mentor at AccioJob. 
 - 💡  I’m currently learning Web 3.0. 
 - 💬 Ask me about Spring Boot, NodeJS , React JS or any other latest tech.
 - 😄 Pronouns: He/His
+- Open to freelance opportunities.
 
 ## Languages & Framweorks I Use 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%23323330.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
