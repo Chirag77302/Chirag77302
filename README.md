@@ -19,7 +19,6 @@ Strong understanding with data structures & algorithms in C++.
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profiles!
 
 <code> <a href="https://codeforces.com/profile/chirag7712"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" title="CodeForces Profile"/></a></code>
-<code> <a href="https://leetcode.com/chiragije7/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
 
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
@@ -29,6 +28,7 @@ Strong understanding with data structures & algorithms in C++.
 
 <!--
 **Chirag77302/Chirag77302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code> <a href="https://leetcode.com/chiragije7/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
 
 - 🎓 Electrical Engg **Sophomore** At **NSUT**,Delhi. 
 - 💻 I’m currently working with [ECELL NSUT](https://ecellnsut.com/)
