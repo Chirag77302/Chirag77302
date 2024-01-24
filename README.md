@@ -2,12 +2,12 @@
 
 ## My name is [Chirag Jindal](https://chiragj-portfolio.herokuapp.com/) & I am a Software Developer.
 
-I am a Tech and Coding enthusiast recently graduated with **Electrical Engineering** as my majors from ***NSUT, Delhi*** .
+I am a tech enthusiast recently graduated with **Electrical Engineering** as my majors from ***NSUT, Delhi*** .
 Strong understanding with data structures & algorithms in C++.
  
 - 👨‍💻 Product Development at American Express.
 - 👨‍🏫 Student Mentor at AccioJob. 
-- 💡  I’m currently learning Web 3.0. 
+- 💡  I’m currently learning Deep learning and Web 3.0 . 
 - 💬 Ask me about Spring Boot, NodeJS , React JS or any other latest tech.
 - 😄 Pronouns: He/His
 - Open to freelance opportunities.
