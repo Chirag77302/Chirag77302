@@ -6,8 +6,8 @@ I am a tech enthusiast recently graduated with **Electrical Engineering** as my 
 Strong understanding with data structures & algorithms in C++.
  
 - 👨‍💻 Product Development at American Express.
-- 👨‍🏫 Student Mentor at AccioJob. 
-- 💡  I’m currently learning Deep learning and Web 3.0 . 
+- 👨‍🏫 Prev Student Mentor at AccioJob. 
+- 💡  I’m currently learning Deep learning. 
 - 💬 Ask me about Spring Boot, NodeJS , React JS or any other latest tech.
 - 😄 Pronouns: He/His
 - Open to freelance opportunities.
